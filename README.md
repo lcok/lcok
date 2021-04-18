@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @hvious
 - I’m interested in programming and reading
-- I’m currently learning spring cloud
 
 <!---
 hvious/hvious is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
